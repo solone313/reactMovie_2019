@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactmovie_2019/static/css/main.f28bff46.chunk.css",
+    "main.js": "/reactmovie_2019/static/js/main.b38a10f3.chunk.js",
+    "main.js.map": "/reactmovie_2019/static/js/main.b38a10f3.chunk.js.map",
+    "runtime-main.js": "/reactmovie_2019/static/js/runtime-main.6da2c593.js",
+    "runtime-main.js.map": "/reactmovie_2019/static/js/runtime-main.6da2c593.js.map",
+    "static/js/2.e8996673.chunk.js": "/reactmovie_2019/static/js/2.e8996673.chunk.js",
+    "static/js/2.e8996673.chunk.js.map": "/reactmovie_2019/static/js/2.e8996673.chunk.js.map",
+    "index.html": "/reactmovie_2019/index.html",
+    "precache-manifest.141a49ffb3254eeaddaa8f6990451c31.js": "/reactmovie_2019/precache-manifest.141a49ffb3254eeaddaa8f6990451c31.js",
+    "service-worker.js": "/reactmovie_2019/service-worker.js",
+    "static/css/main.f28bff46.chunk.css.map": "/reactmovie_2019/static/css/main.f28bff46.chunk.css.map",
+    "static/js/2.e8996673.chunk.js.LICENSE": "/reactmovie_2019/static/js/2.e8996673.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6da2c593.js",
+    "static/js/2.e8996673.chunk.js",
+    "static/css/main.f28bff46.chunk.css",
+    "static/js/main.b38a10f3.chunk.js"
+  ]
+}
