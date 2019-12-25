@@ -6,12 +6,15 @@ function Food({name}){
 
 const foodLike = [
   {
+    id:1,
     name: "김치"
   },
   {
+    id:2,
     name: "삼겹살"
   },
   {
+    id:3,
     name: "라면"
   }
 
@@ -21,7 +24,7 @@ function App() {
   return (
     <div>
       {foodLike.map(dish => 
-        <Food name={dish.name} />
+        <Food key={dish.id} name={dish.name} />
       )}
     </div>
     
